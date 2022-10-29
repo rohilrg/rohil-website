@@ -131,7 +131,7 @@ const educationInfo = {
       desc: "",
       descBullets: [
         "MLDM (Machine Learning and Data Mining) is an international master program of University Jean Monnet (UJM) and the Ecole des Mines de Saint-Etienne.",
-        "It leads to the award of the French national master degree in Computer Science as well as the University Diploma in Machine Learning and Data Mining of the University Jean Monnet."
+        "It leads to the award of the French national master degree in Computer Science as well as the University Diploma in Machine Learning and Data Mining of the University Jean Monnet."]
     },
     {
       schoolName: "Stanford University",
