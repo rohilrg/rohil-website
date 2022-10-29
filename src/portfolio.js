@@ -59,7 +59,7 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+hthttps://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -125,14 +125,13 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Université Jean Monnet",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      logo: require("./assets/images/universite_de_saint-etienne_logo_2016.svg_.png"),
+      subHeader: "Master in Machine Learning & Data Mining",
+      duration: "September 2017 - May 2019",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+        "MLDM (Machine Learning and Data Mining) is an international master program of University Jean Monnet (UJM) and the Ecole des Mines de Saint-Etienne.",
+        "It leads to the award of the French national master degree in Computer Science as well as the University Diploma in Machine Learning and Data Mining of the University Jean Monnet."
     },
     {
       schoolName: "Stanford University",
