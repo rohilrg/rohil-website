@@ -23,7 +23,7 @@ const greeting = {
   username: "Rohil Gupta",
   title: "Hi all, I'm Rohil",
   subTitle: emoji(
-    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. Bitcoin and Lightning engineer as aspiration."
+    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. Bitcoin and Lightning engineer on mind."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -202,7 +202,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
