@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec8d980df1c95d4539df11a694cdbbfc",
+    "revision": "efb4ccb719e524fb8f2554f2fcf5df2f",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.6d402dfc.chunk.css"
   },
   {
-    "revision": "75713e9e64b42be61656",
+    "revision": "8b6a63e718129bb6250f",
     "url": "/static/css/main.1bc32de9.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.a11c632d.chunk.js"
   },
   {
-    "revision": "75713e9e64b42be61656",
-    "url": "/static/js/main.2f38aad0.chunk.js"
+    "revision": "8b6a63e718129bb6250f",
+    "url": "/static/js/main.26db7dae.chunk.js"
   },
   {
     "revision": "5525898d08ef39ff79f5",
@@ -72,10 +72,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -106,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "2f3ead395e300ccf957e231cf597c27d",
+    "url": "/static/media/universite_de_saint-etienne_logo_2016.svg_.2f3ead39.png"
   }
 ]);
