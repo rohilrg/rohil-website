@@ -23,7 +23,7 @@ const greeting = {
   username: "Rohil Gupta",
   title: "Hi all, I'm Rohil",
   subTitle: emoji(
-    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. Bitcoin and Lightning engineer "
+    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. Bitcoin and Lightning engineer as aspiration."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -46,7 +46,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A MLOps Engineer h",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -58,7 +58,7 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-hthttps://fontawesome.com/icons?d=gallery */
+https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
