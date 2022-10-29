@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.30b8e96c.chunk.css",
-    "main.js": "/static/js/main.e843554c.chunk.js",
-    "main.js.map": "/static/js/main.e843554c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.63aa5bdf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.63aa5bdf.js.map",
+    "main.css": "/static/css/main.a127c0a9.chunk.css",
+    "main.js": "/static/js/main.d63e3b56.chunk.js",
+    "main.js.map": "/static/js/main.d63e3b56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dcf4e79f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dcf4e79f.js.map",
     "static/js/2.705ca785.chunk.js": "/static/js/2.705ca785.chunk.js",
     "static/js/2.705ca785.chunk.js.map": "/static/js/2.705ca785.chunk.js.map",
-    "static/css/3.78e6425d.chunk.css": "/static/css/3.78e6425d.chunk.css",
+    "static/css/3.27fb32bf.chunk.css": "/static/css/3.27fb32bf.chunk.css",
     "static/js/3.6bb4b2b8.chunk.js": "/static/js/3.6bb4b2b8.chunk.js",
     "static/js/3.6bb4b2b8.chunk.js.map": "/static/js/3.6bb4b2b8.chunk.js.map",
-    "static/css/4.0b33ed8a.chunk.css": "/static/css/4.0b33ed8a.chunk.css",
+    "static/css/4.3281b99e.chunk.css": "/static/css/4.3281b99e.chunk.css",
     "static/js/4.a11c632d.chunk.js": "/static/js/4.a11c632d.chunk.js",
     "static/js/4.a11c632d.chunk.js.map": "/static/js/4.a11c632d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b0315c2d17916801288bda9a1018412c.js": "/precache-manifest.b0315c2d17916801288bda9a1018412c.js",
+    "precache-manifest.aad21e343de3b915cb3c4c1c2644518a.js": "/precache-manifest.aad21e343de3b915cb3c4c1c2644518a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/3.78e6425d.chunk.css.map": "/static/css/3.78e6425d.chunk.css.map",
-    "static/css/4.0b33ed8a.chunk.css.map": "/static/css/4.0b33ed8a.chunk.css.map",
-    "static/css/main.30b8e96c.chunk.css.map": "/static/css/main.30b8e96c.chunk.css.map",
+    "static/css/3.27fb32bf.chunk.css.map": "/static/css/3.27fb32bf.chunk.css.map",
+    "static/css/4.3281b99e.chunk.css.map": "/static/css/4.3281b99e.chunk.css.map",
+    "static/css/main.a127c0a9.chunk.css.map": "/static/css/main.a127c0a9.chunk.css.map",
     "static/js/2.705ca785.chunk.js.LICENSE.txt": "/static/js/2.705ca785.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
@@ -38,9 +38,9 @@
     "static/media/universite_de_saint-etienne_logo_2016.svg_.png": "/static/media/universite_de_saint-etienne_logo_2016.svg_.2f3ead39.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.63aa5bdf.js",
+    "static/js/runtime-main.dcf4e79f.js",
     "static/js/2.705ca785.chunk.js",
-    "static/css/main.30b8e96c.chunk.css",
-    "static/js/main.e843554c.chunk.js"
+    "static/css/main.a127c0a9.chunk.css",
+    "static/js/main.d63e3b56.chunk.js"
   ]
 }
