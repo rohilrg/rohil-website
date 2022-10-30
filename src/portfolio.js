@@ -46,14 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A MLOps Engineer h",
+  subTitle: "A MLOps Engineer creating pipelines to provide production ready Machine Learning models.",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Deploy end-to-end applications to serve high value ML models to users."
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Create Rest APIs that interacts with the database and frontend."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Research in fields of NLP(Natural Language Processing), Computer Vision and Classical Machine Learning."
     )
   ],
 
@@ -62,48 +62,16 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
     },
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
     },
     {
       skillName: "python",
@@ -126,20 +94,17 @@ const educationInfo = {
       schoolName: "Université Jean Monnet",
       logo: require("./assets/images/universite_de_saint-etienne_logo_2016.svg_.png"),
       subHeader: "Master in Machine Learning & Data Mining",
-      duration: "September 2017 - May 2019",
+      duration: "September 2017 - June 2019",
       desc: "",
-      descBullets: [
-        "MLDM (Machine Learning and Data Mining) is an international master program of University Jean Monnet (UJM) and the Ecole des Mines de Saint-Etienne.",
-        "It leads to the award of the French national master degree in Computer Science as well as the University Diploma in Machine Learning and Data Mining of the University Jean Monnet."
-      ]
+      descBullets: []
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Rajasthan Technical University",
+      logo: require("./assets/images/Rajasthan-Technical-University-Kota.jpg"),
+      subHeader: "Bachelor of Technology in Electrical Engineering",
+      duration: "August 2013 - May 2017",
+      desc: "",
+      descBullets: []
     }
   ]
 };
@@ -175,10 +140,9 @@ const workExperiences = {
       company: "Capgemini",
       companylogo: require("./assets/images/1617853380354.jpeg"),
       date: "March 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Delivered NLP model to extract the logical relations in Clinical Trial Inclusion and Exclusion criteria.",
+        "Delivered a Flask Rest API to do internal post processing task of the application being developed."
       ]
     },
     {
@@ -186,28 +150,45 @@ const workExperiences = {
       company: "Whitelab Genomics",
       companylogo: require("./assets/images/1592576290372.jpeg"),
       date: "June 2020 – March 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+      "Created framework to scrape, parse and push Bio-medical data related to Gene Therapy in Neo4j database.",
+      "Created backend with Flask to interact with Neo4j and push the data to the frontend of the app.",
+      "Developed a tool 'Relevant-Document-finder' to retrieve pertinent documents for the combination of biological keywords from 2.5 million full-text open-source publications, clinical trials, and patents.",
+      "Delivered a ML classifier to predict the viability of AAV(Adeno Associate Virus) capsid for Gene Therapy."
+      ]
     },
     {
       role: "Data Scientist",
       company: "Mindee",
       companylogo: require("./assets/images/1562849293798.jpeg"),
       date: "Sept 2019 – April 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+      "Delivered NLP classification models for expense receipts.",
+       "Delivered an end-to-end deep learning multi-feature extraction model for French national identity cards and petrol receipts.",
+       "Development of Mindee Vision API similar to the Google Vision API."
+      ]
     },
     {
       role: "Data Scientist Intern",
       company: "Square Sense",
       companylogo: require("./assets/images/1622652885547.jpeg"),
       date: "Feb 2019 – Aug 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+      "Implemented Multi-Object Tracker in videos.",
+       "Batch data processing with Apache Beam and scalability analysis.",
+        "Electricity Data Consumption Exploration and Fault Detection using ARIMA, AR, fbprophet forecasting models."
+      ]
     },
     {
       role: "Data Scientist Intern",
       company: "AGT International",
       companylogo: require("./assets/images/1519856979422.jpeg"),
       date: "April 2018 – Aug 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      descBullets: [
+      "Development of tool, driven by IMU sensor data for the correction of manual annotations using Peak Detection and Dynamic Time Wrapping.",
+       "Generation of Generalized Template of different punch types using Dynamic Time Wrapping Averaging.",
+"Feature Engineering on the top of joint position in space from video based skeleton tracking for the classification models of the punch types."
+      ]
     }
   ]
 };
