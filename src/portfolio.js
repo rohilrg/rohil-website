@@ -100,7 +100,7 @@ const educationInfo = {
     },
     {
       schoolName: "Rajasthan Technical University",
-      logo: require("./assets/images/Rajasthan-Technical-University-Kota.jpg"),
+      logo: require("./assets/images/images.jpeg"),
       subHeader: "Bachelor of Technology in Electrical Engineering",
       duration: "August 2013 - May 2017",
       desc: "",
