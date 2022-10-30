@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e9896ff796cc0e47a813a0fc7fc6d1d",
+    "revision": "468c068789711f6cb2cc57389b54cbcd",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3281b99e.chunk.css"
   },
   {
-    "revision": "3e50380c3678decf3c7b",
+    "revision": "77a841efc4005e36d423",
     "url": "/static/css/main.a127c0a9.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.4897c883.chunk.js"
   },
   {
-    "revision": "3e50380c3678decf3c7b",
-    "url": "/static/js/main.4ba32655.chunk.js"
+    "revision": "77a841efc4005e36d423",
+    "url": "/static/js/main.b9781994.chunk.js"
   },
   {
     "revision": "c868f00f40ff2ad72711",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "5d2e5ac270e9f601e012fda9645f308c",
+    "url": "/static/media/Rajasthan-Technical-University-Kota.5d2e5ac2.jpg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -82,10 +86,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
