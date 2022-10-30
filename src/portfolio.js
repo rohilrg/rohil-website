@@ -92,8 +92,8 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Université Jean Monnet",
-      logo: require("./assets/images/universite_de_saint-etienne_logo_2016.svg_.png"),
-      subHeader: "Master in Machine Learning & Data Mining",
+      logo: require("./assets/images/université-jean-monnet-squarelogo-1454686780375.png"),
+      subHeader: "Master of Science in Machine Learning & Data Mining",
       duration: "September 2017 - June 2019",
       desc: "",
       descBullets: []
