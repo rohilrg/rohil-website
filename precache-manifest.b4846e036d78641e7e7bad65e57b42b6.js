@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "468c068789711f6cb2cc57389b54cbcd",
+    "revision": "b5b15a41af7d11b46a507eab05a54a54",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3281b99e.chunk.css"
   },
   {
-    "revision": "77a841efc4005e36d423",
-    "url": "/static/css/main.a127c0a9.chunk.css"
+    "revision": "fd8690d8edea3b9ee4b0",
+    "url": "/static/css/main.f486d062.chunk.css"
   },
   {
     "revision": "150b3e589e2b37447969",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.4897c883.chunk.js"
   },
   {
-    "revision": "77a841efc4005e36d423",
-    "url": "/static/js/main.b9781994.chunk.js"
+    "revision": "fd8690d8edea3b9ee4b0",
+    "url": "/static/js/main.cc43d034.chunk.js"
   },
   {
     "revision": "c868f00f40ff2ad72711",
@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "2f3ead395e300ccf957e231cf597c27d",
-    "url": "/static/media/universite_de_saint-etienne_logo_2016.svg_.2f3ead39.png"
+    "revision": "4f04424c742a5c8832a65039a0f1e38c",
+    "url": "/static/media/université-jean-monnet-squarelogo-1454686780375.4f04424c.png"
   }
 ]);
