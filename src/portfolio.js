@@ -143,8 +143,8 @@ const workExperiences = {
       descBullets: [
         "Delivered NLP model to extract the logical relations in Clinical Trial Inclusion and Exclusion criteria.",
         "Delivered a Flask Rest API to do internal post processing task of the application being developed.",
-        "Deployment of Alphafold with a backend in flask.",​
-        "Creating, deploying and maintaining the CI/CD pipeline hosted on ArgoCD using Kubernetes."​
+        "Deployment of Alphafold with a backend in flask.",
+        "Creating, deploying and maintaining the CI/CD pipeline hosted on ArgoCD using Kubernetes."
       ]
     },
     {
