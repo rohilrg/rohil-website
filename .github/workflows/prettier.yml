@@ -23,4 +23,4 @@ jobs:
 
       - name: Check Format
         run: |
-          npm run check-format
+          prettier -c "./**/*.{js,css,json}"
