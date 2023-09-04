@@ -23,7 +23,7 @@ const greeting = {
   username: "Rohil Gupta",
   title: "Hi all, I'm Rohil",
   subTitle: emoji(
-    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. Bitcoin and Lightning engineer on mind."
+    "Data Scientist at heart. MLOps Engineer by profession. DevOps and Backend engineer on demand. LLM Engineer in making."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -142,8 +142,13 @@ const workExperiences = {
       companylogo: require("./assets/images/1617853380354.jpeg"),
       date: "March 2022 – Present",
       descBullets: [
-        "Delivered NLP model to extract the logical relations in Clinical Trial Inclusion and Exclusion criteria.",
-        "Delivered a Flask Rest API to do internal post processing task of the application being developed."
+        "Project 1 Sanofi: NLP and Backend Engineer",
+        " - Delivered NLP model to extract the logical relations in Clinical Trial Inclusion and Exclusion criteria.",
+        " - Delivered a Flask Rest API to do internal post processing task of the application being developed.",
+        "Project 2 Sanofi: Lead DevOps & Backend engineer",
+        " - Deployment of Alphafold with a backend in flask.",
+        " - Creating, deploying and maintaining the CI/CD pipeline hosted on ArgoCD using Kubernetes.",
+        "Project 3 Astrazeneca: Senior Machine Learning Engineer Consultant"
       ]
     },
     {
@@ -167,28 +172,6 @@ const workExperiences = {
         "Delivered NLP classification models for expense receipts.",
         "Delivered an end-to-end deep learning multi-feature extraction model for French national identity cards and petrol receipts.",
         "Development of Mindee Vision API similar to the Google Vision API."
-      ]
-    },
-    {
-      role: "Data Scientist Intern",
-      company: "Square Sense",
-      companylogo: require("./assets/images/1622652885547.jpeg"),
-      date: "Feb 2019 – Aug 2019",
-      descBullets: [
-        "Implemented Multi-Object Tracker in videos.",
-        "Batch data processing with Apache Beam and scalability analysis.",
-        "Electricity Data Consumption Exploration and Fault Detection using ARIMA, AR, fbprophet forecasting models."
-      ]
-    },
-    {
-      role: "Data Scientist Intern",
-      company: "AGT International",
-      companylogo: require("./assets/images/1519856979422.jpeg"),
-      date: "April 2018 – Aug 2018",
-      descBullets: [
-        "Development of tool, driven by IMU sensor data for the correction of manual annotations using Peak Detection and Dynamic Time Wrapping.",
-        "Generation of Generalized Template of different punch types using Dynamic Time Wrapping Averaging.",
-        "Feature Engineering on the top of joint position in space from video based skeleton tracking for the classification models of the punch types."
       ]
     }
   ]
