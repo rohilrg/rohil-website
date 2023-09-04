@@ -46,7 +46,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A MLOps Engineer creating pipelines to provide production ready Machine Learning models.",
+  subTitle:
+    "A MLOps Engineer creating pipelines to provide production ready Machine Learning models.",
   skills: [
     emoji(
       "⚡ Deploy end-to-end applications to serve high value ML models to users."
@@ -151,10 +152,10 @@ const workExperiences = {
       companylogo: require("./assets/images/1592576290372.jpeg"),
       date: "June 2020 – March 2022",
       descBullets: [
-      "Created framework to scrape, parse and push Bio-medical data related to Gene Therapy in Neo4j database.",
-      "Created backend with Flask to interact with Neo4j and push the data to the frontend of the app.",
-      "Developed a tool 'Relevant-Document-finder' to retrieve pertinent documents for the combination of biological keywords from 2.5 million full-text open-source publications, clinical trials, and patents.",
-      "Delivered a ML classifier to predict the viability of AAV(Adeno Associate Virus) capsid for Gene Therapy."
+        "Created framework to scrape, parse and push Bio-medical data related to Gene Therapy in Neo4j database.",
+        "Created backend with Flask to interact with Neo4j and push the data to the frontend of the app.",
+        "Developed a tool 'Relevant-Document-finder' to retrieve pertinent documents for the combination of biological keywords from 2.5 million full-text open-source publications, clinical trials, and patents.",
+        "Delivered a ML classifier to predict the viability of AAV(Adeno Associate Virus) capsid for Gene Therapy."
       ]
     },
     {
@@ -163,9 +164,9 @@ const workExperiences = {
       companylogo: require("./assets/images/1562849293798.jpeg"),
       date: "Sept 2019 – April 2020",
       descBullets: [
-      "Delivered NLP classification models for expense receipts.",
-       "Delivered an end-to-end deep learning multi-feature extraction model for French national identity cards and petrol receipts.",
-       "Development of Mindee Vision API similar to the Google Vision API."
+        "Delivered NLP classification models for expense receipts.",
+        "Delivered an end-to-end deep learning multi-feature extraction model for French national identity cards and petrol receipts.",
+        "Development of Mindee Vision API similar to the Google Vision API."
       ]
     },
     {
@@ -174,8 +175,8 @@ const workExperiences = {
       companylogo: require("./assets/images/1622652885547.jpeg"),
       date: "Feb 2019 – Aug 2019",
       descBullets: [
-      "Implemented Multi-Object Tracker in videos.",
-       "Batch data processing with Apache Beam and scalability analysis.",
+        "Implemented Multi-Object Tracker in videos.",
+        "Batch data processing with Apache Beam and scalability analysis.",
         "Electricity Data Consumption Exploration and Fault Detection using ARIMA, AR, fbprophet forecasting models."
       ]
     },
@@ -185,9 +186,9 @@ const workExperiences = {
       companylogo: require("./assets/images/1519856979422.jpeg"),
       date: "April 2018 – Aug 2018",
       descBullets: [
-      "Development of tool, driven by IMU sensor data for the correction of manual annotations using Peak Detection and Dynamic Time Wrapping.",
-       "Generation of Generalized Template of different punch types using Dynamic Time Wrapping Averaging.",
-"Feature Engineering on the top of joint position in space from video based skeleton tracking for the classification models of the punch types."
+        "Development of tool, driven by IMU sensor data for the correction of manual annotations using Peak Detection and Dynamic Time Wrapping.",
+        "Generation of Generalized Template of different punch types using Dynamic Time Wrapping Averaging.",
+        "Feature Engineering on the top of joint position in space from video based skeleton tracking for the classification models of the punch types."
       ]
     }
   ]
